@@ -31,13 +31,14 @@ Use COUNTIFS() functions to populate the "Number Successful," "Number Failed," a
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![Outcomess Based on Launch Date](../resources/blob/Theater_Outcomes_vs_Launch.png)
+![Outcomess Based on Launch Date](https://github.com/Rubina-Shrivastava/-kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 
 ### Conclusion - (i) If we use play as creteria, then there is no cancelled outcomes.  (ii) Success is higher than failures. And (iii) in May, success rate at its peak.
 
 - What can you conclude about the Outcomes based on Goals?
 
-![Outcomess Based on Goal](../resources/blob/Outcomes_vs_Goals.png)
+![Outcomess Based on Goal](https://github.com/Rubina-Shrivastava/-kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Conclusion - (i) If we use play as creteria, then there is no cancelled outcomes.  (ii) For certain ranges (5000 to 20000), the percentage of success if almost equal to failures.  However, for higher limits, the failures are more.
 
